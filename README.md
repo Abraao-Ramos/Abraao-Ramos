@@ -46,7 +46,7 @@ I'm a passionate tech enthusiast with a background in Business Information Syste
 
 <div align="center">
   <h2> My Contributions </h2>
-  
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-snake.svg" />
@@ -61,7 +61,7 @@ I'm a passionate tech enthusiast with a background in Business Information Syste
 <hr/>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
-
+<br/>
 <br/>
 
 <div align="center">
