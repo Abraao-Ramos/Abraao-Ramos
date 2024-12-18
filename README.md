@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Abraão+Ramos!;" />
   </a>
 </h1>
+<hr/>
 
 <h3 align="center">A passionate software developer</h3>
 
@@ -37,9 +38,41 @@ I'm a passionate tech enthusiast with a background in Business Information Syste
 
 <p>🌟 I’m constantly seeking opportunities to learn, grow, and contribute to exciting projects. Let’s connect and create something amazing together! 🚀</p>
 
-  
 
+<br/>
+<br/>
 
+<hr/>
+
+<div align="center">
+  <h2> My Contributions </h2>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-snake.svg"
+    
+  </picture>
+
+  <br/>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,java,C#" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,flask,html,css,vscode,git" />
+  </a>
+</div>
+
+<br/>
+<br/>
 
 <br/>
 
@@ -52,35 +85,8 @@ I'm a passionate tech enthusiast with a background in Business Information Syste
   </a>
 </div>
 
-<hr/>
-
-<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript,java,C#" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,flask,html,css,vscode,git" />
-  </a>
-</div>
 
-<br/>
-<hr/>
-
-
-<div align="center">
-  <h2> My Contributions </h2>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-snake.svg"
-    
-  </picture>
-
-  <br/><br/><br/>
-</div>
-
-<br/>
 <hr/>
 
 <h3 align="center">
