@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Abraham+Ramos!;" />
   </a>
 </h1>
-<hr/>
 
 <h3 align="center">A passionate software developer</h3>
 
@@ -42,8 +41,6 @@ I'm a passionate tech enthusiast with a background in Business Information Syste
 <br/>
 <br/>
 
-<hr/>
-
 <div align="center">
   <h2> My Contributions </h2>
   <br/>
@@ -58,7 +55,7 @@ I'm a passionate tech enthusiast with a background in Business Information Syste
 </div>
 
 <br/>
-<hr/>
+
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
