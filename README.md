@@ -28,8 +28,17 @@
   </a>
 </div>
 
+<br/>
+<hr/>
 
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abraao-Ramos/Abraao-Ramos/output/github-contribution-grid-snake.svg"/>
+
+  <br/><br/><br/>
+</div>
 
 
 <!--
