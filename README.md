@@ -63,7 +63,7 @@ I'm a passionate tech enthusiast with a background in Business Information Syste
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript,java,csharp" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,java,cs" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,flask,vscode,git" />
   </a>
 </div>
