@@ -21,7 +21,7 @@ I'm a passionate tech enthusiast with a background in Business Information Syste
     
 
 <h2>💼 Experience:</h2>
-    <p>I worked with <strong>IBM</strong> as a Graduate Software Engineer for 1 year, where I honed my skills in software development and collaborated on innovative projects.</p>
+    <p>I worked at <strong>IBM</strong> as a Graduate Software Engineer for 1 year, where I honed my skills in software development and collaborated on innovative projects.</p>
 
 <h2>📜 Certifications:</h2>
     <ul>
